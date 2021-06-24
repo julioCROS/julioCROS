@@ -6,10 +6,10 @@
 - 📫 You can find me also on [LinkedIn](https://www.linkedin.com/in/juliocros/) or [e-mail](mailto:julio.1009@hotmail.com)
 
 
-<img align = "center" src="https://github-readme-stats.vercel.app/api?username=julioCROS&show_icons=true" alt="julioCROS"/> 
+<img align = "center" src="https://github-readme-stats.vercel.app/api?username=julioCROS&show_icons=true&theme=gotham" alt="julioCROS"/> 
 </p>
 
-
+![](https://raw.githubusercontent.com/julioCROS/duasVezes-Attack-on-Pong/master/twice_Attack_on_Pong/img/backgrounds/backgroundChao.png)
 
 
 
