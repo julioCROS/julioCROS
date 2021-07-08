@@ -1,4 +1,3 @@
-<h2 align="center"> Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I am</h2>
 <h1 align="center"> Julio Cesar Rocha (julioCROS)</h1>
 
 - :bulb: I’m currently learning Web development (__JavaScipt__, __HTML__, __CSS__, __React__, __Next__)
