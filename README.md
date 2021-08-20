@@ -5,8 +5,8 @@
 - 📫 You can find me also on [LinkedIn](https://www.linkedin.com/in/juliocros/) or via [e-mail](mailto:julio.1009@hotmail.com)
 
 <p align="center">
-<img width="390px" src="https://github-readme-stats.vercel.app/api?username=julioCROS&show_icons=true&theme=gotham" alt="julioCROS"/> 
-<img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=juliocros&layout=compact&hide=c&theme=gotham&hide_border=true" alt="juliocros" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=julioCROS&show_icons=true&theme=gotham" alt="julioCROS"/> 
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=juliocros&layout=compact&hide=c&theme=gotham&hide_border=true" alt="juliocros" />
 </p>
 
 ![](https://raw.githubusercontent.com/julioCROS/duasVezes-Attack-on-Pong/master/twice_Attack_on_Pong/img/backgrounds/backgroundChao.png)
