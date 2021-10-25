@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm  Julio Cesar Rocha (julioCROS)</h1>
 
 - :bulb: I’m currently learning Web development (__JavaScipt__, __HTML__, __CSS__, __React__, __Next__)
-- :pencil: I’m looking to collaborate on [COMPET](https://www.linkedin.com/in/competcefetmg/)
+- :pencil: I’m looking to collaborate on [COMPET](https://www.linkedin.com/in/competcefetmg/) and [COMMIT](https://commitjr.com/)
 - 📫 You can find me also on [LinkedIn](https://www.linkedin.com/in/juliocros/) or via [e-mail](mailto:julio.1009@hotmail.com)
 
 <p align="center">
