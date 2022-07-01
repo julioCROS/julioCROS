@@ -16,7 +16,7 @@ jobs:
       - name: Anilist_Spotify
         uses: lowlighter/metrics@latest
         with:
-          filename: /media/anilist_spotify.svg
+          filename: anilist_spotify.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_anilist: yes
