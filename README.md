@@ -6,7 +6,7 @@ Hi 👋, I'm Julio Cesar and I'm currently majoring in Computer Engineering at C
 - :smiley: <b>𝘾𝙍𝙊𝙎</b> comes from: <b>𝘾</b>esar <b>𝙍</b>ocha <b>𝙊</b>liveira <b>𝙎</b>ouza
 
 [<img align="left" width="390" alt="🦑" src="https://github.com/julioCROS/julioCROS/blob/main/general.svg?p">](#)
-[<img align="right" width="420" alt="🦑" src="https://github.com/julioCROS/julioCROS/blob/main/anilist_spotify.svg?p">](#)
+[<img align="right" width="390" alt="🦑" src="https://github.com/julioCROS/julioCROS/blob/main/anilist_spotify.svg?p">](#)
 
 
 
