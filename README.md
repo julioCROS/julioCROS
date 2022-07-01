@@ -1,4 +1,4 @@
-<h1 align="center"> Julio Cesar Rocha (julioCROS) </h1>
+<h1 align="center"> Julio Cesar Rocha (julioCROS) :surfer::ocean: </h1>
 
 Hi 👋, I'm Julio Cesar and I am currently majoring in Computer Engineering at CEFET-MG. I am very interested in Web development (Back and Front development) and I want to learn more about Desktop development, Computer Vision and Artificial Intelligence.
 
