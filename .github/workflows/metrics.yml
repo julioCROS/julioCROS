@@ -23,10 +23,12 @@ jobs:
           config_order: base.header, isocalendar, languages
           plugin_languages: yes
           plugin_languages_ignored: pawn, css, makefile, qmake, coq, jupyter notebook, tcl, stata, verilog, system verilog, vhdl,
-          plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
           plugin_languages_limit: 5
+          commits_authoring: Julio Cesar Rocha, julioCROS, julio.1009@hotmail.com
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          
 
     - name: Anilist_Spotify
       uses: lowlighter/metrics@latest
