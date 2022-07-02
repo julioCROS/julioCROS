@@ -22,7 +22,7 @@ jobs:
           base_indepth: yes
           config_order: base.header, isocalendar, languages
           plugin_languages: yes
-          plugin_languages_ignored: pawn, css, makefile, qmake, coq, jupyter notebook, tcl, stata, verilog, system verilog, vhdl, assembly, java,
+          plugin_languages_ignored: pawn, css, makefile, qmake, coq, jupyter notebook, tcl, stata, verilog, system verilog, vhdl, assembly, java, procfile, shell,
           plugin_languages_indepth: yes
           plugin_languages_limit: 5
           commits_authoring: Julio Cesar Rocha, julioCROS, julio.1009@hotmail.com
