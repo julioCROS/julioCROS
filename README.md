@@ -13,9 +13,6 @@ Hi 👋, I'm Julio Cesar and I'm currently majoring in Computer Engineering at C
 <img width="421" height="510" alt="Anime and Music Stats" src="https://github.com/julioCROS/julioCROS/blob/main/anilist_spotify.svg?p">
 </p>
 
-
-
-
 ## Main projects:
 <a href="https://github.com/competdev/compet_site">
   <img align="left" width="238" height="74" src="https://i.ibb.co/2ckRc8K/compet-site-banner.png"/>
@@ -28,7 +25,7 @@ Hi 👋, I'm Julio Cesar and I'm currently majoring in Computer Engineering at C
   <img align="left" width="238" height="74" src="https://i.ibb.co/BrRGvjD/mml-api-banner.png"/>
 </a>
 
-**My Manga List API:** In order to learn more about back-end development, I developed a CRUD API to fully register manga and users on a platform. Project made in Node JS, MongoDB and has user and email authentication services.
+**My Manga List API:** In order to learn more about back-end development, I developed a CRUD API to fully register manga and users on a platform. Project made in Node JS, MongoDB and has email and user authentication services.
 
 <a href="https://github.com/julioCROS/Ferias-CEFETMG">
   <img align="left" width="238" height="74" src="https://i.ibb.co/30JPLrd/banner-Git-Hub.png"/>
@@ -37,5 +34,3 @@ Hi 👋, I'm Julio Cesar and I'm currently majoring in Computer Engineering at C
 **[CEFET/MG | Férias Bot](https://twitter.com/FeriasCEFETMG):** A bot for twitter whose objective is to post 1 time a day how many days are left until the vacations of the undergraduate and technical high school courses at CEFET/MG Belo Horizonte. Developed in Node JS and hosted on Amazon Web Services (AWS).
 
 [<img align="center" alt="One Piece" src="https://i.ibb.co/Yd3fsGJ/one-piece-wallpaper.png">](#)
-
-
