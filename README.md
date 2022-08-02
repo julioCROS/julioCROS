@@ -33,7 +33,7 @@ Hi 👋, I'm Julio Cesar and I'm currently majoring in Computer Engineering at C
 
 **[CEFET/MG | Férias Bot](https://twitter.com/FeriasCEFETMG):** A bot for twitter whose objective is to post 1 time a day how many days are left until the vacations of the undergraduate and technical high school courses at CEFET/MG Belo Horizonte. Developed in Node JS and hosted on Amazon Web Services (AWS).
 
-[<img align="center" alt="One Piece" src="https://i.ibb.co/Yd3fsGJ/one-piece-wallpaper.png">](https://i.ibb.co/Yd3fsGJ/one-piece-wallpaper.png)
+[<img align="center" alt="One Piece" src="https://github.com/julioCROS/julioCROS/blob/main/horizontal-wallpaper.png">](https://i.ibb.co/Yd3fsGJ/one-piece-wallpaper.png)
 
 
 
