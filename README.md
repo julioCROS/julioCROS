@@ -1,4 +1,4 @@
-<h1 align="center"> Julio Cesar Rocha (julioCROS)  </br>
+<h1 align="center">Julio Cesar Rocha (julioCROS) </br>
 <p align="center">
 <a href="https://www.linkedin.com/in/juliocros/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:julio.1009@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
