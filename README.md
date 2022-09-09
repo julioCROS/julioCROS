@@ -37,9 +37,6 @@ Hi 👋, I'm Julio Cesar and I'm currently majoring in Computer Engineering at C
   <img align="left" width="238" height="74" src="https://i.ibb.co/sgfsX4d/Hakki-Github-placeholder.png"/>
 </a>
 
-**[Hakki (학기)](https://hakki.vercel.app):** Hakki consists of a system for CEFET-MG students to register and see reviews  given by other students to the institution's professors. With a **[Web System](https://github.com/julioCROS/Hakki-Web)** for registering and viewing reviews, a **[Chrome Extension](https://github.com/julioCROS/Hakki-Extension)** for script injection that makes it possible to see such reviews on the SIGAA page and an **[API](https://github.com/julioCROS/Hakki-API)** to receive and send these database data to web system and extension.
+**[Hakki (학기)](https://hakki.vercel.app):** Hakki consists of a system for CEFET-MG students to register and see reviews  given by other students to the institution's professors. With a **[Web System](https://github.com/julioCROS/Hakki-Web)** for registering and viewing reviews, a **[Chrome Extension](https://github.com/julioCROS/Hakki-Extension)** for script injection that makes it possible to see such reviews on the SIGAA page and an **[API](https://github.com/julioCROS/Hakki-API)** to receive and send these database through the system.
 
 [<img align="center" alt="One Piece :3" src="https://github.com/julioCROS/julioCROS/blob/main/horizontal-wallpaper.png">](https://i.ibb.co/Yd3fsGJ/one-piece-wallpaper.png)
-
-
-
