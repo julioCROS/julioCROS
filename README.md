@@ -6,7 +6,9 @@
 
 Hi 👋, I'm Julio Cesar and I'm currently majoring in Computer Engineering at CEFET-MG. I am very interested in _Web Development_ (Back and Front development) and I want to learn more about _Desktop development_, _Computer Vision_ and _Artificial Intelligence_.
 
-- :computer: <b>𝘾𝙍𝙊𝙎</b> comes from: <b>𝘾</b>esar <b>𝙍</b>ocha <b>𝙊</b>liveira <b>𝙎</b>ouza.
+- 📚 I like to read mangas _(and I believe you have already noticed that.)_
+- 🎮 Like to playing alone or with friends in my free time too.
+- ❓ <b>𝘾𝙍𝙊𝙎</b> comes from: <b>𝘾</b>esar <b>𝙍</b>ocha <b>𝙊</b>liveira <b>𝙎</b>ouza.
 
 <p align = "center">
 <img width="421" height="510" alt="General Stats" src="https://github.com/julioCROS/julioCROS/blob/main/general.svg?p">
