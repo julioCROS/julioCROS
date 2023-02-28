@@ -11,8 +11,8 @@ Hi 👋, I'm Julio Cesar and I'm currently majoring in Computer Engineering at C
 - ❓ <b>𝘾𝙍𝙊𝙎</b> comes from: <b>𝘾</b>esar <b>𝙍</b>ocha <b>𝙊</b>liveira <b>𝙎</b>ouza.
 
 <p align = "center">
-<img width="421" height="510" alt="General Stats" src="https://github.com/julioCROS/julioCROS/blob/main/general.svg?p">
-<img width="421" height="510" alt="Anime and Music Stats" src="https://github.com/julioCROS/julioCROS/blob/main/anilist_spotify.svg?p">
+<img width="410" height="415" alt="General Stats" src="https://github.com/julioCROS/julioCROS/blob/main/general.svg?p">
+<img width="410" height="415" alt="Anime and Music Stats" src="https://github.com/julioCROS/julioCROS/blob/main/anilist_spotify.svg?p">
 </p>
 
 ## Main projects:
