@@ -30,7 +30,7 @@ Hi 👋, I'm Julio Cesar and I'm currently majoring in Computer Engineering at C
 **My Manga List API:** In order to learn more about back-end development, I developed a CRUD API to fully register manga and users on a platform. Project made in Node JS, MongoDB and has email and user authentication services.
 
 <a href="https://github.com/julioCROS/Ferias-CEFETMG">
-  <img align="left" width="238" height="74" src="https://i.ibb.co/tbGQ8g5/Ferias-CEFETMG-Github-placeholder.png"/>
+  <img align="left" width="238" height="74" src="https://i.ibb.co/2M0wNXN/Ferias-CEFETMG-Github-placeholder-2.png"/>
 </a>
 
 **[CEFET/MG | Férias Bot](https://twitter.com/FeriasCEFETMG):** A bot for twitter whose objective is to post 1 time a day how many days are left until the vacations of the undergraduate and technical high school courses at CEFET/MG Belo Horizonte. Developed in Node JS and hosted on Amazon Web Services (AWS).
